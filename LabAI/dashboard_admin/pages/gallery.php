@@ -2,7 +2,7 @@
 include '../config/config_db.php';
 $result = pg_query($conn, "SELECT * FROM gallery ORDER BY id DESC");
 ?>
-<!-- ifhjdhdjkhfjkhgjs -->
+<!-- lim -->
  <!-- iguidoygudyfgudygd -->
 <!DOCTYPE html>
 <html lang="en">
